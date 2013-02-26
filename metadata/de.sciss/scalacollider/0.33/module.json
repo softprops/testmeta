@@ -5,6 +5,6 @@
   "dependencies": [{
     "organization":"me.lessis",
     "name":"semverfi",
-    "0.1.0"
+    "version":"0.1.0"
   }]
 }
