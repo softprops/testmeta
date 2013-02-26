@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "customAttr": 42,
   "customConfig": {
-    "customAttr": 7
+    "customAttr": 7,
+    "customAttrB": ["a", "b", "c"]
   }
 }
