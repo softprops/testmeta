@@ -1,0 +1,10 @@
+{
+  "organization": "de.sciss",
+  "name": "scalacollider",
+  "version": "0.33",
+  "dependencies": [{
+    "organization":"me.lessis",
+    "name":"semverfi",
+    "0.1.0"
+  }]
+}
